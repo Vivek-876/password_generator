@@ -15,6 +15,7 @@ sample() is an inbuilt function of a random module in Python that returns a part
 
 At last, join all character in a list into a string, using a “” character as separator.
 
-Output
+Output:-
 Enter password length: 8
+
 Your password: lrOuG#6$
